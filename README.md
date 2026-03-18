@@ -4,10 +4,12 @@
 
 <br>
 
-<div>
-  <img align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=omar-islam-shaban&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
+<img align="right" height="310" src="https://i.pinimg.com/originals/31/b3/6c/31b36c7931cd1ba460dc4b5853e12f81.gif" alt="anime gif" />
 
-  <img align="right" height="190" src="https://i.pinimg.com/originals/31/b3/6c/31b36c7931cd1ba460dc4b5853e12f81.gif" alt="anime gif" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-islam-shaban&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=omar-islam-shaban&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <br clear="both">
