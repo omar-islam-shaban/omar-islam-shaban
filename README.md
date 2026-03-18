@@ -15,10 +15,6 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312effjlpuqb7nlbkpgvuyanmbdm)
-###
-
-###
 
 <img src="https://raw.githubusercontent.com/omar-islam-shaban/omar-islam-shaban/output/snake.svg" alt="Snake animation" />
 
